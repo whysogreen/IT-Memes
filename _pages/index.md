@@ -83,7 +83,12 @@ gallery:
     posted_by: Jason Chan
     github: https://github.com/Jchann24
 
-
+  - image_path: /assets/memes/software_in_real_life.jpeg
+    # short description of image
+    alt: The software in demo vs reality 
+    # your profile name and github page
+    posted_by: flyznex
+    github: https://github.com/flyznex
 
 
 ### leave below as is
