@@ -74,14 +74,15 @@ gallery:
     # your profile name and github page
     posted_by: Nick Neos
     github: https://github.com/nickneos
-
+    
+  # insert image details below (spacing important!)
   - image_path: /assets/memes/helloworld.jpg
     # short description of image
     alt: bug fix
     # your profile name and github page
     posted_by: Jason Chan
     github: https://github.com/Jchann24
-
+    
   # insert image details below (spacing important!)
   - image_path: /assets/memes/iamroot.jpeg
     # short description of image
@@ -89,6 +90,15 @@ gallery:
     # your profile name and github page
     posted_by: Akshay Chaturvedi
     github: https://github.com/aks1809
+    
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/software_in_real_life.jpeg
+    # short description of image
+    alt: The software in demo vs reality 
+    # your profile name and github page
+    posted_by: flyznex
+    github: https://github.com/flyznex
+    
 ### leave below as is
 ---
 
