@@ -107,6 +107,14 @@ gallery:
     # your profile name and github page
     posted_by: Nick Neos
     github: https://github.com/nickneos
+
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/lang_tiers.jpg
+    # short description of image
+    alt: Programming languages moral alignment
+    # your profile name and github page
+    posted_by: Maryana Morato
+    github: https://github.com/maryanamorato
     
 
 
