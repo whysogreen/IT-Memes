@@ -108,6 +108,13 @@ gallery:
     posted_by: Nick Neos
     github: https://github.com/nickneos
     
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/AppleandMicrosoft.png
+    # short description of image
+    alt: Apple and Microsoft
+    # your profile name and github page
+    posted_by: Muhesh Kumar
+    github: https://github.com/muhesh-kumar
 
 
     
