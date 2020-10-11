@@ -27,6 +27,14 @@ gallery:
     # your name and github page
     title: Posted by [Nick Neos](https://github.com/nickneos)
 
+    # insert image details below (spacing important!)
+  - url: /assets/memes/if_it_aint_broke.png
+    image_path: /assets/memes/if_it_aint_broke.png
+    # short description of image
+    alt: If it aint broke
+    # your name and github page
+    title: Posted by [Raul Gonzalez](https://github.com/rgonz166)
+
 
 
 
