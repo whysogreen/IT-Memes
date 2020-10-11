@@ -45,6 +45,14 @@ gallery:
     posted_by: Zargham Danial
     github: https://github.com/ZarghamDanial
 
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/confusingML.jpg
+    # short description of image
+    alt: confusingML
+    # your profile name and github page
+    posted_by: Shashwat Kumar
+    github: https://github.com/gitshashwat
+
 
 
 
