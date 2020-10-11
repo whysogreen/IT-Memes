@@ -12,28 +12,31 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-AU"
 title                    : "IT Memes"
 title_separator          : "-"
 subtitle                 : "Hacktoberfest"
-# name                     : "Nick Neos"
+url                      : "https://www.nickneos.com/IT-Memes"
+baseurl                  : "/" 
+repository               : nickneos/IT-Memes
 description              : "IT Memes page created for hacktoberfest"
 
 
 # Site Author
 author:
-  # name             : "Nick Neos"
+  name             : "Nick Neos"
   # avatar           : /assets/images/favicon/android-chrome-192x192.png
   # bio              : Full time data engineer and tech geek with interests in home automation, photography and djing.
-  # location         : Melbourne, AU
+  location         : Melbourne, AU
   email            : nicholas.neos@gmail.com
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nickneos"
+
 
 # Reading Files
 include:
