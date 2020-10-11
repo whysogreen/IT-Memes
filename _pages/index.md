@@ -66,7 +66,16 @@ gallery:
     alt: confusingML
     # your profile name and github page
     posted_by: Shashwat Kumar
-    github: https://github.com/gitshashwat    
+    github: https://github.com/gitshashwat
+
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/coronavirus.png
+    # short description of image
+    alt: coronavirus
+    # your profile name and github page
+    posted_by: Nick Neos
+    github: https://github.com/nickneos
+
 
 
 
