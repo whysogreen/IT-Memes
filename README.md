@@ -32,7 +32,7 @@ PR's to this repo will count towards the 4 PR's needed to score a free Hactoberf
         github: https://github.com/nickneos
     ```
 5. Paste it underneath the one you copied. Make sure indentation and spaces line up exactly like the others as this is important with `yaml`.
-6. Edit `image_path` with your image file pathh; edit  `alt`, `posted_by` and `github` accordingly as per the comments.
+6. Edit `image_path` with your image file path; edit  `alt`, `posted_by` and `github` accordingly as per the comments.
 7. Save index.md and commit and push your changes:
     ```bash
     git add .

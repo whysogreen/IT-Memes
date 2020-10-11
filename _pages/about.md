@@ -2,6 +2,7 @@
 sitemap: false
 permalink: /about/
 Title: About
+author_profile: true
 ---
 
 ![hacktoberfest](/assets/hacktoberfest2020.svg)
