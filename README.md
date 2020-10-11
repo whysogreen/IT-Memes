@@ -4,8 +4,9 @@
 
 This repo was created for beginners looking to contribute to [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/) in a fun way. 
 
-This repo is the backend to the webpage [www.nickneos.com/IT-Memes](https://www.nickneos.com/IT-Memes/) - a page with light hearted IT related memes 😃
+The codebase here is the backend to the webpage [www.nickneos.com/IT-Memes](https://www.nickneos.com/IT-Memes/)... a page with light hearted IT related memes 😃
 
+I need your help adding funny IT memes!!!
 
 ## Contributing
 
@@ -41,7 +42,9 @@ PR's to this repo will count towards the 4 PR's needed to score a free Hactoberf
 8. Go to your forked repo in GitHub, and raise a pull request to this repo.
 9. Once merged it should count towards your 4 PR's which you can keep track of [here](https://hacktoberfest.digitalocean.com/profile).
 
-## Credit
+## Credits
 
+* Static website generator: [Jekyll](https://jekyllrb.com/)
 * Webpage theme: [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes)
 * Idea for the meme page: [ProjectDock](https://github.com/ProjectDock/programming-memes)
+
