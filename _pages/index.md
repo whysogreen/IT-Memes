@@ -76,7 +76,12 @@ gallery:
     posted_by: Nick Neos
     github: https://github.com/nickneos
 
-
+  - image_path: /assets/memes/helloworld.jpg
+    # short description of image
+    alt: bug fix
+    # your profile name and github page
+    posted_by: Jason Chan
+    github: https://github.com/Jchann24
 
 
 
