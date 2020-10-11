@@ -2,7 +2,6 @@
 title: IT Memes
 permalink: /
 gallery:
-
 ### leave above as is
 
   # insert image details below (spacing important!)

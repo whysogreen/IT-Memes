@@ -1,8 +1,6 @@
 ---
-sitemap: false
-permalink: /about/
 Title: About
-author_profile: true
+permalink: /about/
 ---
 
 ![hacktoberfest](https://www.nickneos.com/IT-Memes/assets/hacktoberfest2020.svg)

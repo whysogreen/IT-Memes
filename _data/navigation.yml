@@ -1,3 +1,13 @@
 main:
   - title: "About"
     url: /about/
+
+side:
+  - title: "Home"
+    url: /
+  - title: "Submit a meme"
+    url: https://github.com/nickneos/IT-Memes
+  - title: "Hactoberfest 2020"
+    url: https://hacktoberfest.digitalocean.com
+  - title: "About"
+    url: /about/

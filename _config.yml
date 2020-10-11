@@ -20,7 +20,7 @@ title                    : "IT Memes"
 title_separator          : "-"
 subtitle                 : "Hacktoberfest"
 url                      : "https://www.nickneos.com/IT-Memes"
-baseurl                  : "/" 
+baseurl                  : "/"
 repository               : nickneos/IT-Memes
 description              : "IT Memes page created for hacktoberfest"
 
@@ -28,7 +28,7 @@ description              : "IT Memes page created for hacktoberfest"
 # Site Author
 author:
   name             : "Nick Neos"
-  # avatar           : /assets/images/favicon/android-chrome-192x192.png
+  avatar           : /assets/nn.png
   # bio              : Full time data engineer and tech geek with interests in home automation, photography and djing.
   location         : Melbourne, AU
   email            : nicholas.neos@gmail.com
@@ -36,6 +36,8 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nickneos"
+    - label: "Website"
+      url: "https://www.nickneos.com"
 
 
 # Reading Files
@@ -174,3 +176,7 @@ defaults:
       share: false
       related: false
       classes: wide
+      sidebar:
+        - title: IT memes
+          nav: side
+      
