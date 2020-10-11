@@ -43,6 +43,14 @@ gallery:
     alt: Homework
     # your name and github page
     title: Posted by [Zargham Danial](https://github.com/ZarghamDanial)
+  
+  # insert image details below (spacing important!)
+  - url: /assets/memes/ide_meme.jpg
+    image_path: /assets/memes/ide_meme.jpg
+    # short description of image
+    alt: IDE
+    # your name and github page
+    title: Posted by [Lea Franz](https://github.com/LeaFranz)
 
 
 
