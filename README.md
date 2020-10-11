@@ -23,16 +23,16 @@ PR's to this repo will count towards the 4 PR's needed to score a free Hactoberf
 4. Add you're meme image to the `assets/memes/` directory.
 5. Open `_pages/index.md` and copy the last block of `yaml` code that looks like this:
     ```yaml
-    # insert image details below (spacing important!)
-    - url: /assets/memes/sql_programmers.jpg
-      image_path: /assets/memes/sql_programmers.jpg
-      # short description of image
-      alt: SQL Programmers
-      # your name and github page
-      title: Posted by [Nick Neos](https://github.com/nickneos)
+      # insert image details below (spacing important!)
+      - image_path: /assets/memes/sql_programmers.jpg
+        # short description of image
+        alt: SQL Programmers
+        # your github profile name and github account
+        posted_by: Nick Neos
+        github: https://github.com/nickneos
     ```
 5. Paste it underneath the one you copied. Make sure indentation and spaces line up exactly like the others as this is important with `yaml`.
-6. Edit `url` and `image_path` with your image path; edit  `alt` and `title` accordingly as per the comments.
+6. Edit `image_path` with your image file pathh; edit  `alt`, `posted_by` and `github` accordingly as per the comments.
 7. Save index.md and commit and push your changes:
     ```bash
     git add .
