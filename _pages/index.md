@@ -45,6 +45,14 @@ gallery:
     posted_by: Zargham Danial
     github: https://github.com/ZarghamDanial
 
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/ide_meme.jpg
+    # short description of image
+    alt: IDE
+    # your name and github page
+    posted_by: Lea Franz
+    github: https://github.com/LeaFranz
+
 
 
 
