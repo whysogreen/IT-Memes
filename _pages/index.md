@@ -100,6 +100,14 @@ gallery:
     posted_by: flyznex
     github: https://github.com/flyznex
     
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/in-case-of-fire.png
+    # short description of image
+    alt: In case of fire
+    # your profile name and github page
+    posted_by: Nick Neos
+    github: https://github.com/nickneos
+    
 
 
     
