@@ -2,8 +2,7 @@
 title: IT Memes
 permalink: /
 gallery:
-
-### leave above as is
+  ### leave above as is
 
   # insert image details below (spacing important!)
   - image_path: /assets/memes/sql_programmers.jpg
@@ -83,11 +82,14 @@ gallery:
     posted_by: Jason Chan
     github: https://github.com/Jchann24
 
-
-
-
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/iamroot.jpeg
+    # short description of image
+    alt: linux sudo su- i am root
+    # your profile name and github page
+    posted_by: Akshay Chaturvedi
+    github: https://github.com/aks1809
 ### leave below as is
-
 ---
 
 {% include gallery %}
