@@ -54,12 +54,20 @@ gallery:
     github: https://github.com/LeaFranz
 
   # insert image details below (spacing important!)
+  - image_path: /assets/memes/compile-meme.jpg
+    # short description of image
+    alt: Compilation
+    # your name and github page
+    posted_by: Akshatha Poojary
+    github: https://github.com/AkshathaKPoojary
+
   - image_path: /assets/memes/confusingML.jpg
     # short description of image
     alt: confusingML
     # your profile name and github page
     posted_by: Shashwat Kumar
     github: https://github.com/gitshashwat    
+
 
 
 
