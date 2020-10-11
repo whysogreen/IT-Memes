@@ -1,5 +1,6 @@
 ---
 title: IT Memes
+tagline: Contribute to Hacktoberfest 2020 by submitting a meme!
 permalink: /
 gallery:
 ### leave above as is

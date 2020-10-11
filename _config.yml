@@ -176,7 +176,10 @@ defaults:
       share: false
       related: false
       classes: wide
+      header:
+        overlay_image: /assets/nyan-cat-flying.jpg
+        overlay_filter: 0.5
       sidebar:
-        - title: IT memes
+        - title: IT Memes
           nav: side
       
