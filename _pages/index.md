@@ -53,6 +53,14 @@ gallery:
     posted_by: Lea Franz
     github: https://github.com/LeaFranz
 
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/compile-meme.jpg
+    # short description of image
+    alt: Compilation
+    # your name and github page
+    posted_by: Akshatha Poojary
+    github: https://github.com/AkshathaKPoojary
+
 
 
 
