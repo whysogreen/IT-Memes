@@ -115,6 +115,14 @@ gallery:
     # your profile name and github page
     posted_by: Maryana Morato
     github: https://github.com/maryanamorato
+
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/bugs-in-code.jpg
+    # short description of image
+    alt: Dealing with bugs in your code
+    # your profile name and github page
+    posted_by: Tarotato
+    github: https://github.com/tarotato
     
 
 
