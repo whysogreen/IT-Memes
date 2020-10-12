@@ -75,7 +75,7 @@ gallery:
     # your profile name and github page
     posted_by: Nick Neos
     github: https://github.com/nickneos
-    
+
   # insert image details below (spacing important!)
   - image_path: /assets/memes/helloworld.jpg
     # short description of image
@@ -83,7 +83,7 @@ gallery:
     # your profile name and github page
     posted_by: Jason Chan
     github: https://github.com/Jchann24
-    
+
   # insert image details below (spacing important!)
   - image_path: /assets/memes/iamroot.jpeg
     # short description of image
@@ -91,15 +91,15 @@ gallery:
     # your profile name and github page
     posted_by: Akshay Chaturvedi
     github: https://github.com/aks1809
-    
+
   # insert image details below (spacing important!)
   - image_path: /assets/memes/software_in_real_life.jpeg
     # short description of image
-    alt: The software in demo vs reality 
+    alt: The software in demo vs reality
     # your profile name and github page
     posted_by: flyznex
     github: https://github.com/flyznex
-    
+
   # insert image details below (spacing important!)
   - image_path: /assets/memes/in-case-of-fire.png
     # short description of image
@@ -123,7 +123,7 @@ gallery:
     # your profile name and github page
     posted_by: ayayace16
     github: https://github.com/ayayace16
-    
+
   # insert image details below (spacing important!)
   - image_path: /assets/memes/AppleandMicrosoft.png
     # short description of image
@@ -131,7 +131,7 @@ gallery:
     # your profile name and github page
     posted_by: Muhesh Kumar
     github: https://github.com/muhesh-kumar
-    
+
   # insert image details below (spacing important!)
   - image_path: /assets/memes/bugs-in-code.jpg
     # short description of image
@@ -139,8 +139,8 @@ gallery:
     # your profile name and github page
     posted_by: Tarotato
     github: https://github.com/tarotato
-	
-	# insert image details below (spacing important!)
+
+  # insert image details below (spacing important!)
   - image_path: /assets/memes/recursion_meme.jpg
     # short description of image
     alt: Dealing with recursion function
@@ -150,7 +150,7 @@ gallery:
 
 
 
-    
+
 ### leave below as is
 ---
 
