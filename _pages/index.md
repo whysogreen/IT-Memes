@@ -116,6 +116,13 @@ gallery:
     posted_by: Maryana Morato
     github: https://github.com/maryanamorato
     
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/AppleandMicrosoft.png
+    # short description of image
+    alt: Apple and Microsoft
+    # your profile name and github page
+    posted_by: Muhesh Kumar
+    github: https://github.com/muhesh-kumar
 
 
     
