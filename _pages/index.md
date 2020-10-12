@@ -117,13 +117,29 @@ gallery:
     github: https://github.com/maryanamorato
 
   # insert image details below (spacing important!)
+  - image_path: /assets/memes/pluggedin.jpg
+    # short description of image
+    alt: Is it plugged in?
+    # your profile name and github page
+    posted_by: ayayace16
+    github: https://github.com/ayayace16
+    
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/AppleandMicrosoft.png
+    # short description of image
+    alt: Apple and Microsoft
+    # your profile name and github page
+    posted_by: Muhesh Kumar
+    github: https://github.com/muhesh-kumar
+    
+  # insert image details below (spacing important!)
   - image_path: /assets/memes/bugs-in-code.jpg
     # short description of image
     alt: Dealing with bugs in your code
     # your profile name and github page
     posted_by: Tarotato
     github: https://github.com/tarotato
-    
+
 
 
     
