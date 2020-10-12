@@ -148,6 +148,13 @@ gallery:
     posted_by: Vijay
     github: https://github.com/vijayakumarGit
 
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/programming-electricity.jpg
+    # short description of image
+    alt: Programming without saving , then electricity went off
+    # your profile name and github page
+    posted_by: Kaunik
+    github: https://github.com/kaunik07
 
 
 
