@@ -115,6 +115,14 @@ gallery:
     # your profile name and github page
     posted_by: Maryana Morato
     github: https://github.com/maryanamorato
+
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/pluggedin.jpg
+    # short description of image
+    alt: Is it plugged in?
+    # your profile name and github page
+    posted_by: ayayace16
+    github: https://github.com/ayayace16
     
   # insert image details below (spacing important!)
   - image_path: /assets/memes/AppleandMicrosoft.png
