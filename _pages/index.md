@@ -139,6 +139,14 @@ gallery:
     # your profile name and github page
     posted_by: Tarotato
     github: https://github.com/tarotato
+	
+	# insert image details below (spacing important!)
+  - image_path: /assets/memes/recursion_meme.jpg
+    # short description of image
+    alt: Dealing with recursion function
+    # your profile name and github page
+    posted_by: Vijay
+    github: https://github.com/vijayakumarGit
 
 
 
