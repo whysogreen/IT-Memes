@@ -131,6 +131,15 @@ gallery:
     # your profile name and github page
     posted_by: Muhesh Kumar
     github: https://github.com/muhesh-kumar
+    
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/bugs-in-code.jpg
+    # short description of image
+    alt: Dealing with bugs in your code
+    # your profile name and github page
+    posted_by: Tarotato
+    github: https://github.com/tarotato
+
 
 
     
