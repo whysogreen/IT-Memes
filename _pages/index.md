@@ -156,6 +156,14 @@ gallery:
     posted_by: Kaunik
     github: https://github.com/kaunik07
 
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/programmer-while-sleeping.jpg
+    # short description of image
+    alt: Programmer while sleeping
+    # your profile name and github page
+    posted_by: Mohammad Reza
+    github: https://github.com/rzadev
+
 
 
 ### leave below as is
