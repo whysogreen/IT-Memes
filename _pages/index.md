@@ -196,6 +196,14 @@ gallery:
     posted_by: Kyara van Putten
     github: https://github.com/Kiralinn
 
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/full-stack.jpg
+    # short description of image
+    alt: Full stack
+    # your profile name and github page
+    posted_by: Rafaela Queiroz
+    github: https://github.com/rafaela-queiroz
+
 
 
 
