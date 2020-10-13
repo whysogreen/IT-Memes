@@ -172,6 +172,13 @@ gallery:
     posted_by: anna lewis
     github: https://github.com/annnfrann
 
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/delete_prod_table.jpeg
+    # short description of image
+    alt: If coffee doesn't wake you up..
+    # your github profile name and github account
+    posted_by: Sai Karthik
+    github: https://github.com/sai-karthik-p
 
 
 ### leave below as is
