@@ -3,7 +3,7 @@ title: IT Memes
 tagline: Contribute to Hacktoberfest 2020 by submitting a meme!
 permalink: /
 gallery:
-### leave above as is
+  ### leave above as is
 
   # insert image details below (spacing important!)
   - image_path: /assets/memes/sql_programmers.jpg
@@ -28,6 +28,14 @@ gallery:
     # your profile name and github page
     posted_by: Nick Neos
     github: https://github.com/nickneos
+
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/HTMLCSS.jpg
+    # short description of image
+    alt: Html plus css
+    # your profile name and github page
+    posted_by: Kyara van Putten
+    github: https://github.com/Kiralinn
 
     # insert image details below (spacing important!)
   - image_path: /assets/memes/if_it_aint_broke.png
@@ -163,7 +171,7 @@ gallery:
     # your profile name and github page
     posted_by: Mohammad Reza
     github: https://github.com/rzadev
-    
+
   # insert image details below (spacing important!)
   - image_path: /assets/memes/css.jpg
     # short description of image
@@ -171,9 +179,6 @@ gallery:
     # your github profile name and github account
     posted_by: anna lewis
     github: https://github.com/annnfrann
-
-
-
 ### leave below as is
 ---
 
