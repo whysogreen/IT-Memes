@@ -189,7 +189,7 @@ gallery:
     github: https://github.com/sai-karthik-p
 
   # insert image details below (spacing important!)
-  - image_path: /assets/memes/HTMLCSS.jpg
+  - image_path: /assets/memes/HTMLCSS.jpeg
     # short description of image
     alt: Html plus css
     # your profile name and github page
