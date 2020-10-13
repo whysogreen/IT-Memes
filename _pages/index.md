@@ -172,7 +172,13 @@ gallery:
     posted_by: anna lewis
     github: https://github.com/annnfrann
 
-
+ # insert image details below (spacing important!)
+  - image_path: /assets/memes/js.png
+    # short description of image
+    alt: Javascript is Weird
+    # your github profile name and github account
+    posted_by: wfebriad
+    github: https://github.com/wfebriad
 
 ### leave below as is
 ---
