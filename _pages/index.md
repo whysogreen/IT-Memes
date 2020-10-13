@@ -163,6 +163,14 @@ gallery:
     # your profile name and github page
     posted_by: Mohammad Reza
     github: https://github.com/rzadev
+    
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/css.jpg
+    # short description of image
+    alt: CSS is awesome
+    # your github profile name and github account
+    posted_by: anna lewis
+    github: https://github.com/annnfrann
 
 
 
