@@ -29,14 +29,6 @@ gallery:
     posted_by: Nick Neos
     github: https://github.com/nickneos
 
-  # insert image details below (spacing important!)
-  - image_path: /assets/memes/HTMLCSS.jpg
-    # short description of image
-    alt: Html plus css
-    # your profile name and github page
-    posted_by: Kyara van Putten
-    github: https://github.com/Kiralinn
-
     # insert image details below (spacing important!)
   - image_path: /assets/memes/if_it_aint_broke.png
     # short description of image
@@ -195,6 +187,17 @@ gallery:
     # your github profile name and github account
     posted_by: Sai Karthik
     github: https://github.com/sai-karthik-p
+
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/HTMLCSS.jpg
+    # short description of image
+    alt: Html plus css
+    # your profile name and github page
+    posted_by: Kyara van Putten
+    github: https://github.com/Kiralinn
+
+
+
 
 ### leave below as is
 ---
