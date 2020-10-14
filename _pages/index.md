@@ -213,7 +213,7 @@ gallery:
     github: https://github.com/dajackalz
     
    # insert image details below (spacing important!)
-  - image_path: /assets/memes/maury-meme
+  - image_path: /assets/memes/maury-meme.jpg
     # short description of image
     alt: Lies!
     # your profile name and github page
