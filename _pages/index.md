@@ -219,6 +219,14 @@ gallery:
     # your profile name and github page
     posted_by: dajackalz
     github: https://github.com/dajackalz   
+
+    # insert image details below (spacing important!)
+  - image_path: /assets/memes/wrongUsb.jpg
+    # short description of image
+    alt: Never correct at first attempt
+    # your github profile name and github account
+    posted_by: Vipul Jha
+    github: https://github.com/vipul1142
     
     
     
