@@ -219,9 +219,15 @@ gallery:
     # your profile name and github page
     posted_by: dajackalz
     github: https://github.com/dajackalz   
-    
-    
-    
+   
+   # insert image details below (spacing important!)
+  - image_path: /assets/memes/math_js_meme.jpg
+    # short description of image
+    alt: Learning JS Math be like
+    # your profile name and github page
+    posted_by: ThordisLia
+    github: https://github.com/ThordisLia  
+      
 
 ### leave below as is
 ---
