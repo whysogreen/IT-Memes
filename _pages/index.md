@@ -197,7 +197,7 @@ gallery:
     github: https://github.com/Kiralinn
 
   # insert image details below (spacing important!)
-  - image_path: /assets/memes/pluggedin.jpg
+  - image_path: /assets/memes/pluggedinit.jpg
     # short description of image
     alt: Is it plugged in?
     # your profile name and github page
