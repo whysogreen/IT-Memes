@@ -196,7 +196,13 @@ gallery:
     posted_by: Kyara van Putten
     github: https://github.com/Kiralinn
 
-
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/pluggedin.jpg
+    # short description of image
+    alt: Is it plugged in?
+    # your profile name and github page
+    posted_by: dajackalz
+    github: https://github.com/dajackalz
 
 
 ### leave below as is
