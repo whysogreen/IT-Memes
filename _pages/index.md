@@ -213,7 +213,7 @@ gallery:
     github: https://github.com/dajackalz
     
    # insert image details below (spacing important!)
-  - image_path: /assets/memes/maury-meme
+  - image_path: /assets/memes/maury-meme.jpg
     # short description of image
     alt: Lies!
     # your profile name and github page
@@ -228,7 +228,13 @@ gallery:
     posted_by: Vipul Jha
     github: https://github.com/vipul1142
     
-    
+   # insert image details below (spacing important!)
+  - image_path: /assets/memes/itsupport.jpg
+    # short description of image
+    alt: IT Support
+    # your profile name and github page
+    posted_by: dajackalz
+    github: https://github.com/dajackalz       
     
 
 ### leave below as is
