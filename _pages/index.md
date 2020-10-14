@@ -204,14 +204,6 @@ gallery:
     posted_by: Rafaela Queiroz
     github: https://github.com/rafaela-queiroz
 
-  # insert image details below (spacing important!)
-  - image_path: /assets/memes/pluggedinit.jpg
-    # short description of image
-    alt: Is it plugged in?
-    # your profile name and github page
-    posted_by: dajackalz
-    github: https://github.com/dajackalz
-
    # insert image details below (spacing important!)
   - image_path: /assets/memes/maury-meme.jpg
     # short description of image
