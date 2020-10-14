@@ -211,31 +211,43 @@ gallery:
     # your profile name and github page
     posted_by: dajackalz
     github: https://github.com/dajackalz
-    
+
    # insert image details below (spacing important!)
   - image_path: /assets/memes/maury-meme.jpg
     # short description of image
     alt: Lies!
     # your profile name and github page
     posted_by: dajackalz
-    github: https://github.com/dajackalz   
+    github: https://github.com/dajackalz
 
-    # insert image details below (spacing important!)
+  # insert image details below (spacing important!)
   - image_path: /assets/memes/wrongUsb.jpg
     # short description of image
     alt: Never correct at first attempt
     # your github profile name and github account
     posted_by: Vipul Jha
     github: https://github.com/vipul1142
-    
-   # insert image details below (spacing important!)
+
+  # insert image details below (spacing important!)
   - image_path: /assets/memes/itsupport.jpg
     # short description of image
     alt: IT Support
     # your profile name and github page
     posted_by: dajackalz
-    github: https://github.com/dajackalz       
-    
+    github: https://github.com/dajackalz
+
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/math_js_meme.jpg
+    # short description of image
+    alt: Learning JS Math be like
+    # your profile name and github page
+    posted_by: ThordisLia
+    github: https://github.com/ThordisLia
+
+
+
+
+
 
 ### leave below as is
 ---
