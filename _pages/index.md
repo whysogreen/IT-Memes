@@ -227,7 +227,14 @@ gallery:
     # your profile name and github page
     posted_by: dajackalz
     github: https://github.com/dajackalz       
-    
+
+   # insert image details below (spacing important!)
+  - image_path: /assets/memes/pullrequest.jpeg
+    # short description of image
+    alt: Pull Request
+    # your profile name and github page
+    posted_by: dajackalz
+    github: https://github.com/dajackalz    
 
 ### leave below as is
 ---
