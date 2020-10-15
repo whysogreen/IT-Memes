@@ -276,6 +276,13 @@ gallery:
     posted_by: davidmwilliams
     github: https://github.com/davidmwilliams
 
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/tabclub.png
+    # short description of image
+    alt: Spaces sneaking into the tab club
+    # your profile name and github page
+    posted_by: davidmwilliams
+    github: https://github.com/davidmwilliams
 
 
 ### leave below as is
