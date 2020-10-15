@@ -204,23 +204,23 @@ gallery:
     posted_by: Rafaela Queiroz
     github: https://github.com/rafaela-queiroz
 
-  # insert image details below (spacing important!)
-  - image_path: /assets/memes/pluggedinit.jpg
-    # short description of image
-    alt: Is it plugged in?
-    # your profile name and github page
-    posted_by: dajackalz
-    github: https://github.com/dajackalz
-    
    # insert image details below (spacing important!)
   - image_path: /assets/memes/maury-meme.jpg
     # short description of image
     alt: Lies!
     # your profile name and github page
     posted_by: dajackalz
-    github: https://github.com/dajackalz   
-    
-   # insert image details below (spacing important!)
+    github: https://github.com/dajackalz
+
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/wrongUsb.jpg
+    # short description of image
+    alt: Never correct at first attempt
+    # your github profile name and github account
+    posted_by: Vipul Jha
+    github: https://github.com/vipul1142
+
+  # insert image details below (spacing important!)
   - image_path: /assets/memes/itsupport.jpg
     # short description of image
     alt: IT Support
@@ -228,13 +228,48 @@ gallery:
     posted_by: dajackalz
     github: https://github.com/dajackalz       
 
-   # insert image details below (spacing important!)
+  # insert image details below (spacing important!)
   - image_path: /assets/memes/pullrequest.jpeg
     # short description of image
     alt: Pull Request
     # your profile name and github page
     posted_by: dajackalz
-    github: https://github.com/dajackalz    
+    github: https://github.com/dajackalz   
+
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/math_js_meme.jpg
+    # short description of image
+    alt: Learning JS Math be like
+    # your profile name and github page
+    posted_by: ThordisLia
+    github: https://github.com/ThordisLia
+
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/missing-semicolon.jpg
+    # short description of image
+    alt: When you find missing semicolon
+    # your profile name and github page
+    posted_by: nbrown0000
+    github: https://github.com/nbrown0000
+    
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/be_in_front_of_PC.png
+    # short description of image
+    alt: When you call tech support to help you fix your computer be in front of your computer
+    # your profile name and github page
+    posted_by: davidmwilliams
+    github: https://github.com/davidmwilliams
+
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/programmer_interrupted.png
+    # short description of image
+    alt: Why you shouldn't interrupt a programmer
+    # your profile name and github page
+    posted_by: davidmwilliams
+    github: https://github.com/davidmwilliams
+
+
+
 
 ### leave below as is
 ---
