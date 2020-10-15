@@ -236,6 +236,13 @@ gallery:
     posted_by: ThordisLia
     github: https://github.com/ThordisLia
 
+# insert image details below (spacing important!)
+  - image_path: /assets/memes/missing-semicolon.jpg
+    # short description of image
+    alt: When you find missing semicolon
+    # your profile name and github page
+    posted_by: nbrown0000
+    github: https://github.com/nbrown0000
 
 
 
