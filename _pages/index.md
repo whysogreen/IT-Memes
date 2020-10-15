@@ -269,6 +269,14 @@ gallery:
     github: https://github.com/davidmwilliams
 
   # insert image details below (spacing important!)
+  - image_path: /assets/memes/virus_scan.jpg
+    # short description of image
+    alt: Ain't nobdy
+    # your profile name and github page
+    posted_by: dajackalz
+    github: https://github.com/dajackalz
+    
+  # insert image details below (spacing important!)
   - image_path: /assets/memes/replace-programmers.jpg
     # short description of image
     alt: To replace programmers with robots clients will have to accurately describe what they want. We're safe.
@@ -283,7 +291,9 @@ gallery:
     # your profile name and github page
     posted_by: davidmwilliams
     github: https://github.com/davidmwilliams
-
+    
+    
+    
 
 ### leave below as is
 ---
