@@ -236,13 +236,29 @@ gallery:
     posted_by: ThordisLia
     github: https://github.com/ThordisLia
 
-# insert image details below (spacing important!)
+  # insert image details below (spacing important!)
   - image_path: /assets/memes/missing-semicolon.jpg
     # short description of image
     alt: When you find missing semicolon
     # your profile name and github page
     posted_by: nbrown0000
     github: https://github.com/nbrown0000
+    
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/be_in_front_of_PC.png
+    # short description of image
+    alt: When you call tech support to help you fix your computer be in front of your computer
+    # your profile name and github page
+    posted_by: davidmwilliams
+    github: https://github.com/davidmwilliams
+
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/programmer_interrupted.png
+    # short description of image
+    alt: Why you shouldn't interrupt a programmer
+    # your profile name and github page
+    posted_by: davidmwilliams
+    github: https://github.com/davidmwilliams
 
 
 
