@@ -21,7 +21,8 @@
       <a href="{{ img.image_path | relative_url }}"
         {% if img.posted_by %}title="Posted by {{ img.posted_by }} - {{ img.github }}"{% endif %}>
           <img src="{{ img.image_path | relative_url }}"
-               alt="{% if img.alt %}{{ img.alt }}{% endif %}">
+               alt="{% if img.alt %}{{ img.alt }}{% endif %}"
+               style="max-height:400px; width: auto">
       </a>
   {% endfor %}
   {% if include.caption %}
