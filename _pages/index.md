@@ -226,7 +226,15 @@ gallery:
     alt: IT Support
     # your profile name and github page
     posted_by: dajackalz
-    github: https://github.com/dajackalz
+    github: https://github.com/dajackalz       
+
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/pullrequest.jpeg
+    # short description of image
+    alt: Pull Request
+    # your profile name and github page
+    posted_by: dajackalz
+    github: https://github.com/dajackalz   
 
   # insert image details below (spacing important!)
   - image_path: /assets/memes/math_js_meme.jpg
@@ -259,7 +267,6 @@ gallery:
     # your profile name and github page
     posted_by: davidmwilliams
     github: https://github.com/davidmwilliams
-
 
 
 
