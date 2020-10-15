@@ -260,6 +260,13 @@ gallery:
     posted_by: davidmwilliams
     github: https://github.com/davidmwilliams
 
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/replace-programmers.jpg
+    # short description of image
+    alt: To replace programmers with robots clients will have to accurately describe what they want. We're safe.
+    # your profile name and github page
+    posted_by: davidmwilliams
+    github: https://github.com/davidmwilliams
 
 
 
