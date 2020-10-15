@@ -268,7 +268,13 @@ gallery:
     posted_by: davidmwilliams
     github: https://github.com/davidmwilliams
 
-
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/virus_scan.jpg
+    # short description of image
+    alt: Ain't nobdy
+    # your profile name and github page
+    posted_by: dajackalz
+    github: https://github.com/dajackalz
 
 
 ### leave below as is
