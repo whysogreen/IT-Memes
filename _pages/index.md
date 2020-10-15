@@ -244,6 +244,13 @@ gallery:
     posted_by: davidmwilliams
     github: https://github.com/davidmwilliams
 
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/be_in_front_of_PC.png
+    # short description of image
+    alt: When you call tech support to help you fix your computer be in front of your computer
+    # your profile name and github page
+    posted_by: davidmwilliams
+    github: https://github.com/davidmwilliams
 
 
 
