@@ -236,6 +236,13 @@ gallery:
     posted_by: ThordisLia
     github: https://github.com/ThordisLia
 
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/programmer-interrupted.png
+    # short description of image
+    alt: Why you shouldn't interrupt a programmer
+    # your profile name and github page
+    posted_by: davidmwilliams
+    github: https://github.com/davidmwilliams
 
 
 
