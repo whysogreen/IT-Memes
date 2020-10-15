@@ -237,13 +237,13 @@ gallery:
     github: https://github.com/ThordisLia
 
   # insert image details below (spacing important!)
-  - image_path: /assets/memes/programmer_interrupted.png
+  - image_path: /assets/memes/missing-semicolon.jpg
     # short description of image
-    alt: Why you shouldn't interrupt a programmer
+    alt: When you find missing semicolon
     # your profile name and github page
-    posted_by: davidmwilliams
-    github: https://github.com/davidmwilliams
-
+    posted_by: nbrown0000
+    github: https://github.com/nbrown0000
+    
   # insert image details below (spacing important!)
   - image_path: /assets/memes/be_in_front_of_PC.png
     # short description of image
@@ -251,6 +251,15 @@ gallery:
     # your profile name and github page
     posted_by: davidmwilliams
     github: https://github.com/davidmwilliams
+
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/programmer_interrupted.png
+    # short description of image
+    alt: Why you shouldn't interrupt a programmer
+    # your profile name and github page
+    posted_by: davidmwilliams
+    github: https://github.com/davidmwilliams
+
 
 
 
