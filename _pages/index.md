@@ -245,7 +245,7 @@ gallery:
     github: https://github.com/ThordisLia
 
   # insert image details below (spacing important!)
-  - image_path: /assets/memes/missing-semicolon.jpg
+  - image_path: /assets/memes/missing-semicolon.png
     # short description of image
     alt: When you find missing semicolon
     # your profile name and github page
@@ -275,7 +275,25 @@ gallery:
     # your profile name and github page
     posted_by: dajackalz
     github: https://github.com/dajackalz
+    
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/replace-programmers.jpg
+    # short description of image
+    alt: To replace programmers with robots clients will have to accurately describe what they want. We're safe.
+    # your profile name and github page
+    posted_by: davidmwilliams
+    github: https://github.com/davidmwilliams
 
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/tabclub.png
+    # short description of image
+    alt: Spaces sneaking into the tab club
+    # your profile name and github page
+    posted_by: davidmwilliams
+    github: https://github.com/davidmwilliams
+    
+    
+    
 
 ### leave below as is
 ---
