@@ -292,7 +292,13 @@ gallery:
     posted_by: davidmwilliams
     github: https://github.com/davidmwilliams
     
-    
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/software_terminology.jpg
+    # short description of image
+    alt: Software Terminology
+    # your profile name and github page
+    posted_by: damuggy
+    github: https://github.com/damuggy 
     
 
 ### leave below as is
