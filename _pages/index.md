@@ -316,6 +316,14 @@ gallery:
     posted_by: damuggy
     github: https://github.com/damuggy    
     
+   # insert image details below (spacing important!)
+  - image_path: /assets/memes/cookies.jpg
+    # short description of image
+    alt: Hmmm cookies
+    # your profile name and github page
+    posted_by: damuggy
+    github: https://github.com/damuggy        
+    
 ### leave below as is
 ---
 
