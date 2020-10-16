@@ -324,6 +324,14 @@ gallery:
     posted_by: damuggy
     github: https://github.com/damuggy        
     
+   # insert image details below (spacing important!)
+  - image_path: /assets/memes/memaso.jpg
+    # short description of image
+    alt: Informatics!
+    # your profile name and github page
+    posted_by: Hydefs
+    github: https://github.com/Hydefs 
+
 ### leave below as is
 ---
 
