@@ -204,7 +204,7 @@ gallery:
     posted_by: Rafaela Queiroz
     github: https://github.com/rafaela-queiroz
 
-   # insert image details below (spacing important!)
+    # insert image details below (spacing important!)
   - image_path: /assets/memes/maury-meme.jpg
     # short description of image
     alt: Lies!
@@ -226,7 +226,7 @@ gallery:
     alt: IT Support
     # your profile name and github page
     posted_by: dajackalz
-    github: https://github.com/dajackalz       
+    github: https://github.com/dajackalz
 
   # insert image details below (spacing important!)
   - image_path: /assets/memes/pullrequest.jpeg
@@ -234,7 +234,7 @@ gallery:
     alt: Pull Request
     # your profile name and github page
     posted_by: dajackalz
-    github: https://github.com/dajackalz   
+    github: https://github.com/dajackalz
 
   # insert image details below (spacing important!)
   - image_path: /assets/memes/math_js_meme.jpg
@@ -251,7 +251,7 @@ gallery:
     # your profile name and github page
     posted_by: nbrown0000
     github: https://github.com/nbrown0000
-    
+
   # insert image details below (spacing important!)
   - image_path: /assets/memes/be_in_front_of_PC.png
     # short description of image
@@ -269,6 +269,14 @@ gallery:
     github: https://github.com/davidmwilliams
 
   # insert image details below (spacing important!)
+  - image_path: /assets/memes/virus_scan.jpg
+    # short description of image
+    alt: Ain't nobdy
+    # your profile name and github page
+    posted_by: dajackalz
+    github: https://github.com/dajackalz
+
+  # insert image details below (spacing important!)
   - image_path: /assets/memes/replace-programmers.jpg
     # short description of image
     alt: To replace programmers with robots clients will have to accurately describe what they want. We're safe.
@@ -276,8 +284,46 @@ gallery:
     posted_by: davidmwilliams
     github: https://github.com/davidmwilliams
 
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/tabclub.png
+    # short description of image
+    alt: Spaces sneaking into the tab club
+    # your profile name and github page
+    posted_by: davidmwilliams
+    github: https://github.com/davidmwilliams
 
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/halo.png
+    # short description of image
+    alt: This is what's happening during halo loading screens
+    # your profile name and github page
+    posted_by: MooesioMarcelino
+    github: https://github.com/moesiomarcelino
 
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/software_terminology.jpg
+    # short description of image
+    alt: Software Terminology
+    # your profile name and github page
+    posted_by: damuggy
+    github: https://github.com/damuggy 
+    
+   # insert image details below (spacing important!)
+  - image_path: /assets/memes/frontend.jpg
+    # short description of image
+    alt: All about that frontend
+    # your profile name and github page
+    posted_by: damuggy
+    github: https://github.com/damuggy    
+    
+   # insert image details below (spacing important!)
+  - image_path: /assets/memes/cookies.jpg
+    # short description of image
+    alt: Hmmm cookies
+    # your profile name and github page
+    posted_by: damuggy
+    github: https://github.com/damuggy        
+    
 ### leave below as is
 ---
 
