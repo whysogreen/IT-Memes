@@ -380,6 +380,13 @@ gallery:
     posted_by: lryanle
     github: https://github.com/lryanle
 
+   # insert image details below (spacing important!)
+  - image_path: /assets/memes/evolution-of-it-ops.jpg
+    # short description of image
+    alt: The evolution of IT Ops, created by @acloudguru
+    # your profile name and github page
+    posted_by: danidanz
+    github: https://github.com/danidanz
 
 
 
