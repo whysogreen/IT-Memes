@@ -332,7 +332,7 @@ gallery:
     posted_by: damuggy
     github: https://github.com/damuggy
 
-   # insert image details below (spacing important!)
+  # insert image details below (spacing important!)
   - image_path: /assets/memes/cookies.jpg
     # short description of image
     alt: Hmmm cookies
@@ -348,7 +348,7 @@ gallery:
     posted_by: damuggy
     github: https://github.com/damuggy        
     
-   # insert image details below (spacing important!)
+  # insert image details below (spacing important!)
   - image_path: /assets/memes/memaso.jpg
     # short description of image
     alt: Informatics!
@@ -356,7 +356,7 @@ gallery:
     posted_by: Hydefs
     github: https://github.com/Hydefs 
 
-   # insert image details below (spacing important!)
+  # insert image details below (spacing important!)
   - image_path: /assets/memes/hackers-in-movies.jpg
     # short description of image
     alt: Hackers in Movies
@@ -364,7 +364,7 @@ gallery:
     posted_by: Nick Neos
     github: https://github.com/nickneos
 
-   # insert image details below (spacing important!)
+  # insert image details below (spacing important!)
   - image_path: /assets/memes/brainfuck.png
     # short description of image
     alt: Coding is easy
@@ -372,7 +372,7 @@ gallery:
     posted_by: lryanle
     github: https://github.com/lryanle
 
-   # insert image details below (spacing important!)
+  # insert image details below (spacing important!)
   - image_path: /assets/memes/tiersofsharingcode.jpg
     # short description of image
     alt: Different tiers of sharing code
@@ -380,13 +380,26 @@ gallery:
     posted_by: lryanle
     github: https://github.com/lryanle
 
-   # insert image details below (spacing important!)
+  # insert image details below (spacing important!)
   - image_path: /assets/memes/evolution-of-it-ops.jpg
     # short description of image
     alt: The evolution of IT Ops, created by @acloudguru
     # your profile name and github page
     posted_by: danidanz
     github: https://github.com/danidanz
+
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/updateMeme.jpg
+    # short description of image
+    alt: Updates be like
+    # your github profile name and github account
+    posted_by: Sayali T
+    github: https://github.com/sayalitandel
+
+
+
+
+
 
 
 
