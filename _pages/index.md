@@ -306,24 +306,39 @@ gallery:
     alt: Software Terminology
     # your profile name and github page
     posted_by: damuggy
-    github: https://github.com/damuggy 
-    
+    github: https://github.com/damuggy
+
    # insert image details below (spacing important!)
   - image_path: /assets/memes/frontend.jpg
     # short description of image
     alt: All about that frontend
     # your profile name and github page
     posted_by: damuggy
-    github: https://github.com/damuggy    
-    
+    github: https://github.com/damuggy
+
    # insert image details below (spacing important!)
   - image_path: /assets/memes/cookies.jpg
     # short description of image
     alt: Hmmm cookies
     # your profile name and github page
     posted_by: damuggy
-    github: https://github.com/damuggy        
-    
+    github: https://github.com/damuggy
+
+   # insert image details below (spacing important!)
+  - image_path: /assets/memes/hackers-in-movies.jpg
+    # short description of image
+    alt: Hackers in Movies
+    # your profile name and github page
+    posted_by: Nick Neos
+    github: https://github.com/nickneos
+
+
+
+
+
+
+
+
 ### leave below as is
 ---
 
