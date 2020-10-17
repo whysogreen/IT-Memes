@@ -14,6 +14,14 @@ gallery:
     github: https://github.com/nickneos
 
   # insert image details below (spacing important!)
+  - image_path: /assets/memes/clients.png
+    # short description of image
+    alt: Clients
+    # your profile name and github page
+    posted_by: Nick Neos
+    github: https://github.com/nickneos
+
+  # insert image details below (spacing important!)
   - image_path: /assets/memes/documentation.jpg
     # short description of image
     alt: Documentation
