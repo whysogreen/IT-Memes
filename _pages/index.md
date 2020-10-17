@@ -14,6 +14,14 @@ gallery:
     github: https://github.com/nickneos
 
   # insert image details below (spacing important!)
+  - image_path: /assets/memes/clients.png
+    # short description of image
+    alt: Clients
+    # your profile name and github page
+    posted_by: Nick Neos
+    github: https://github.com/nickneos
+
+  # insert image details below (spacing important!)
   - image_path: /assets/memes/documentation.jpg
     # short description of image
     alt: Documentation
@@ -229,6 +237,14 @@ gallery:
     github: https://github.com/dajackalz
 
   # insert image details below (spacing important!)
+  - image_path: /assets/memes/pullrequest.jpeg
+    # short description of image
+    alt: Pull Request
+    # your profile name and github page
+    posted_by: dajackalz
+    github: https://github.com/dajackalz
+
+  # insert image details below (spacing important!)
   - image_path: /assets/memes/math_js_meme.jpg
     # short description of image
     alt: Learning JS Math be like
@@ -237,12 +253,158 @@ gallery:
     github: https://github.com/ThordisLia
 
   # insert image details below (spacing important!)
+  - image_path: /assets/memes/missing-semicolon.png
+    # short description of image
+    alt: When you find missing semicolon
+    # your profile name and github page
+    posted_by: nbrown0000
+    github: https://github.com/nbrown0000
+
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/be_in_front_of_PC.png
+    # short description of image
+    alt: When you call tech support to help you fix your computer be in front of your computer
+    # your profile name and github page
+    posted_by: davidmwilliams
+    github: https://github.com/davidmwilliams
+
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/programmer_interrupted.png
+    # short description of image
+    alt: Why you shouldn't interrupt a programmer
+    # your profile name and github page
+    posted_by: davidmwilliams
+    github: https://github.com/davidmwilliams
+
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/virus_scan.jpg
+    # short description of image
+    alt: Ain't nobdy
+    # your profile name and github page
+    posted_by: dajackalz
+    github: https://github.com/dajackalz
+
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/replace-programmers.jpg
+    # short description of image
+    alt: To replace programmers with robots clients will have to accurately describe what they want. We're safe.
+    # your profile name and github page
+    posted_by: davidmwilliams
+    github: https://github.com/davidmwilliams
+
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/tabclub.png
+    # short description of image
+    alt: Spaces sneaking into the tab club
+    # your profile name and github page
+    posted_by: davidmwilliams
+    github: https://github.com/davidmwilliams
+
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/halo.png
+    # short description of image
+    alt: This is what's happening during halo loading screens
+    # your profile name and github page
+    posted_by: MooesioMarcelino
+    github: https://github.com/moesiomarcelino
+
+    # insert image details below (spacing important!)
+  - image_path: /assets/memes/prof.png
+    # short description of image
+    alt: excuses developer give
+    # your profile name and github page
+    posted_by: bolajiscott
+    github: https://github.com/bolajiscott 
+
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/software_terminology.jpg
+    # short description of image
+    alt: Software Terminology
+    # your profile name and github page
+    posted_by: damuggy
+    github: https://github.com/damuggy
+
+   # insert image details below (spacing important!)
+  - image_path: /assets/memes/frontend.jpg
+    # short description of image
+    alt: All about that frontend
+    # your profile name and github page
+    posted_by: damuggy
+    github: https://github.com/damuggy
+
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/cookies.jpg
+    # short description of image
+    alt: Hmmm cookies
+    # your profile name and github page
+    posted_by: damuggy
+    github: https://github.com/damuggy        
+
+   # insert image details below (spacing important!)
+  - image_path: /assets/memes/no_cloud.png
+    # short description of image
+    alt: No Cloud
+    # your profile name and github page
+    posted_by: damuggy
+    github: https://github.com/damuggy        
+    
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/memaso.jpg
+    # short description of image
+    alt: Informatics!
+    # your profile name and github page
+    posted_by: Hydefs
+    github: https://github.com/Hydefs 
+
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/hackers-in-movies.jpg
+    # short description of image
+    alt: Hackers in Movies
+    # your profile name and github page
+    posted_by: Nick Neos
+    github: https://github.com/nickneos
+
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/brainfuck.png
+    # short description of image
+    alt: Coding is easy
+    # your profile name and github page
+    posted_by: lryanle
+    github: https://github.com/lryanle
+
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/tiersofsharingcode.jpg
+    # short description of image
+    alt: Different tiers of sharing code
+    # your profile name and github page
+    posted_by: lryanle
+    github: https://github.com/lryanle
+
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/evolution-of-it-ops.jpg
+    # short description of image
+    alt: The evolution of IT Ops, created by @acloudguru
+    # your profile name and github page
+    posted_by: danidanz
+    github: https://github.com/danidanz
+
+  # insert image details below (spacing important!)
   - image_path: /assets/memes/updateMeme.jpg
     # short description of image
     alt: Updates be like
     # your github profile name and github account
     posted_by: Sayali T
     github: https://github.com/sayalitandel
+
+
+
+
+
+
+
+
+
+
 ### leave below as is
 ---
 
