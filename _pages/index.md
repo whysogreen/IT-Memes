@@ -204,7 +204,7 @@ gallery:
     posted_by: Rafaela Queiroz
     github: https://github.com/rafaela-queiroz
 
-   # insert image details below (spacing important!)
+    # insert image details below (spacing important!)
   - image_path: /assets/memes/maury-meme.jpg
     # short description of image
     alt: Lies!
@@ -236,11 +236,13 @@ gallery:
     posted_by: ThordisLia
     github: https://github.com/ThordisLia
 
-
-
-
-
-
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/updateMeme.jpg
+    # short description of image
+    alt: Updates be like
+    # your github profile name and github account
+    posted_by: Sayali T
+    github: https://github.com/sayalitandel
 ### leave below as is
 ---
 
