@@ -1,4 +1,3 @@
 hacktoberfest-accepted:
-  - any: ['assets/memes/*.jpg','assets/memes/*.jpeg','assets/memes/*.gif','assets/memes/*.png']
-    all: ['_pages/index.md']
-    
+  - 'assets/memes/*'
+  - '_pages/index.md'

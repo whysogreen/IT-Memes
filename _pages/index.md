@@ -300,6 +300,14 @@ gallery:
     posted_by: MooesioMarcelino
     github: https://github.com/moesiomarcelino
 
+    # insert image details below (spacing important!)
+  - image_path: /assets/memes/prof.png
+    # short description of image
+    alt: excuses developer give
+    # your profile name and github page
+    posted_by: bolajiscott
+    github: https://github.com/bolajiscott 
+
   # insert image details below (spacing important!)
   - image_path: /assets/memes/software_terminology.jpg
     # short description of image
@@ -322,7 +330,15 @@ gallery:
     alt: Hmmm cookies
     # your profile name and github page
     posted_by: damuggy
-    github: https://github.com/damuggy
+    github: https://github.com/damuggy        
+    
+   # insert image details below (spacing important!)
+  - image_path: /assets/memes/memaso.jpg
+    # short description of image
+    alt: Informatics!
+    # your profile name and github page
+    posted_by: Hydefs
+    github: https://github.com/Hydefs 
 
    # insert image details below (spacing important!)
   - image_path: /assets/memes/hackers-in-movies.jpg
