@@ -339,6 +339,14 @@ gallery:
     # your profile name and github page
     posted_by: damuggy
     github: https://github.com/damuggy        
+
+   # insert image details below (spacing important!)
+  - image_path: /assets/memes/no_cloud.png
+    # short description of image
+    alt: No Cloud
+    # your profile name and github page
+    posted_by: damuggy
+    github: https://github.com/damuggy        
     
    # insert image details below (spacing important!)
   - image_path: /assets/memes/memaso.jpg
