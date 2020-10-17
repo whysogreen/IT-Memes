@@ -1,3 +1,5 @@
 hacktoberfest-accepted:
-  - 'assets/memes/*'
-  - '_pages/index.md'
+  - assets/memes/*.jpg
+  - assets/memes/*.jpeg
+  - assets/memes/*.gif
+  - assets/memes/*.png
