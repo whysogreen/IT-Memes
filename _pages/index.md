@@ -348,7 +348,13 @@ gallery:
     posted_by: Nick Neos
     github: https://github.com/nickneos
 
-
+   # insert image details below (spacing important!)
+  - image_path: /assets/memes/brainfuck.png
+    # short description of image
+    alt: Coding is easy
+    # your profile name and github page
+    posted_by: lryanle
+    github: https://github.com/lryanle
 
 
 
