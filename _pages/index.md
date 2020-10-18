@@ -37,7 +37,7 @@ gallery:
     posted_by: Nick Neos
     github: https://github.com/nickneos
 
-    # insert image details below (spacing important!)
+  # insert image details below (spacing important!)
   - image_path: /assets/memes/if_it_aint_broke.png
     # short description of image
     alt: If it aint broke
@@ -69,6 +69,7 @@ gallery:
     posted_by: Akshatha Poojary
     github: https://github.com/AkshathaKPoojary
 
+  # insert image details below (spacing important!)
   - image_path: /assets/memes/confusingML.jpg
     # short description of image
     alt: confusingML
@@ -308,7 +309,7 @@ gallery:
     posted_by: MooesioMarcelino
     github: https://github.com/moesiomarcelino
 
-    # insert image details below (spacing important!)
+  # insert image details below (spacing important!)
   - image_path: /assets/memes/prof.png
     # short description of image
     alt: excuses developer give
@@ -324,7 +325,7 @@ gallery:
     posted_by: damuggy
     github: https://github.com/damuggy
 
-   # insert image details below (spacing important!)
+  # insert image details below (spacing important!)
   - image_path: /assets/memes/frontend.jpg
     # short description of image
     alt: All about that frontend
@@ -340,7 +341,7 @@ gallery:
     posted_by: damuggy
     github: https://github.com/damuggy        
 
-   # insert image details below (spacing important!)
+  # insert image details below (spacing important!)
   - image_path: /assets/memes/no_cloud.png
     # short description of image
     alt: No Cloud
@@ -403,6 +404,20 @@ gallery:
     # your github profile name and github account
     posted_by: Jocagi
     github: https://github.com/Jocagi
+
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/sql-error.png
+    # short description of image
+    alt: You have an error in your SQL syntax
+    # your profile name and github page
+    posted_by: davidmwilliams
+    github: https://github.com/davidmwilliams
+
+
+
+
+
+
 
 
 
