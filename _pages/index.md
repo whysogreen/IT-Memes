@@ -276,6 +276,13 @@ gallery:
     posted_by: davidmwilliams
     github: https://github.com/davidmwilliams
 
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/sql-error.png
+    # short description of image
+    alt: You have an error in your SQL syntax
+    # your profile name and github page
+    posted_by: davidmwilliams
+    github: https://github.com/davidmwilliams
 
 
 ### leave below as is
