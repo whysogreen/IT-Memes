@@ -1,0 +1,5 @@
+hacktoberfest-accepted:
+  - assets/memes/*.jpg
+  - assets/memes/*.jpeg
+  - assets/memes/*.gif
+  - assets/memes/*.png
