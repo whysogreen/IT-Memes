@@ -396,11 +396,13 @@ gallery:
     posted_by: Sayali T
     github: https://github.com/sayalitandel
 
-
-
-
-
-
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/girl-programmer.png
+    # short description of image
+    alt: When a girl becomes a programmer
+    # your github profile name and github account
+    posted_by: Jocagi
+    github: https://github.com/Jocagi
 
 
 
