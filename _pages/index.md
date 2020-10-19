@@ -406,7 +406,7 @@ gallery:
     github: https://github.com/Jocagi
 
   # insert image details below (spacing important!)
-  - image_path: /assets/memes/sql-error.png
+  - image_path: /assets/memes/sql-error.jpg
     # short description of image
     alt: You have an error in your SQL syntax
     # your profile name and github page
