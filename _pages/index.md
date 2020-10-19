@@ -413,6 +413,14 @@ gallery:
     posted_by: davidmwilliams
     github: https://github.com/davidmwilliams
 
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/become_cooler_with_react.jpg
+    # short description of image
+    alt: Become a cooler Frontend with React
+    # your profile name and github page
+    posted_by: rakhaviantoni
+    github: https://github.com/rakhaviantoni
+
 
 
 
