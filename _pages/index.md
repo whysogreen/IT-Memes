@@ -421,7 +421,13 @@ gallery:
     posted_by: rakhaviantoni
     github: https://github.com/rakhaviantoni
 
-
+ # insert image details below (spacing important!)
+  - image_path: /assets/memes/CSFrehie.jpg
+    # short description of image
+    alt: First time going to ML 
+    # your profile name and github page
+    posted_by: Soumik Baithalu 
+    github: https://github.com/soumik2012
 
 
 
