@@ -429,6 +429,14 @@ gallery:
     posted_by: Soumik Baithalu 
     github: https://github.com/soumik2012
 
+ # insert image details below (spacing important!)
+  - image_path: /assets/memes/sleepError.jpg
+    # short description of image
+    alt: When code every day get dream about error
+    # your profile name and github page
+    posted_by: Soumik Baithalu 
+    github: https://github.com/soumik2012   
+
 
 
 
