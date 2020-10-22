@@ -422,7 +422,7 @@ gallery:
     github: https://github.com/rakhaviantoni
     
   # insert image details below (spacing important!)
-  - image_path: /assets/memes/CSFrehie.jpg
+  - image_path: /assets/memes/CSFreshie.jpg
     # short description of image
     alt: First time going to ML 
     # your profile name and github page
