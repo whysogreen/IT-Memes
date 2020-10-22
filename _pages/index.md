@@ -421,6 +421,14 @@ gallery:
     posted_by: rakhaviantoni
     github: https://github.com/rakhaviantoni
 
+# insert image details below (spacing important!)
+  - image_path: /assets/memes/why.jpg
+    # short description of image
+    alt: It doesnt work, why .. It works, why
+    # your profile name and github page
+    posted_by: mongjong86
+    github: https://github.com/mongjong86
+
 
 
 
