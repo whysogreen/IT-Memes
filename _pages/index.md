@@ -421,6 +421,14 @@ gallery:
     posted_by: rakhaviantoni
     github: https://github.com/rakhaviantoni
 
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/haccmoment.jpg
+    # short description of image
+    alt: Hacc moment when using inspect tools
+    # your profile name and github page
+    posted_by: mazmiaris
+    github: https://github.com/mazmiaris
+
 
 
 
