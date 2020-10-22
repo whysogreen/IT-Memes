@@ -420,14 +420,41 @@ gallery:
     # your profile name and github page
     posted_by: rakhaviantoni
     github: https://github.com/rakhaviantoni
+    
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/CSFrehie.jpg
+    # short description of image
+    alt: First time going to ML 
+    # your profile name and github page
+    posted_by: Soumik Baithalu 
+    github: https://github.com/soumik2012
+    
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/sleepError.jpg
+    # short description of image
+    alt: When code every day get dream about error
+    # your profile name and github page
+    posted_by: Soumik Baithalu 
+    github: https://github.com/soumik2012   
+  
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/haccmoment.jpg
+    # short description of image
+    alt: Hacc moment when using inspect tools
+    # your profile name and github page
+    posted_by: mazmiaris
+    github: https://github.com/mazmiaris
 
-# insert image details below (spacing important!)
+  # insert image details below (spacing important!)
   - image_path: /assets/memes/why.jpg
     # short description of image
     alt: It doesnt work, why .. It works, why
     # your profile name and github page
     posted_by: mongjong86
     github: https://github.com/mongjong86
+
+
+
 
 
 
