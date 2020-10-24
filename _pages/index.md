@@ -452,14 +452,23 @@ gallery:
     # your profile name and github page
     posted_by: mongjong86
     github: https://github.com/mongjong86
-
-# insert image details below (spacing important!)
+    
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/vamisola-meme.jpg
+    # short description of image
+    alt: I changed my password to "incorrect"
+    # your profile name and github page
+    posted_by: vamisola
+    github: https://github.com/vamisola
+    
+  # insert image details below (spacing important!)
   - image_path: /assets/memes/vue.js.jpg
     # short description of image
     alt: vue is more interesting
     # your github profile name and github account
     posted_by: wfebriad
     github: https://github.com/wfebriad
+    
 
 
 
