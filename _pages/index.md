@@ -315,7 +315,7 @@ gallery:
     alt: excuses developer give
     # your profile name and github page
     posted_by: bolajiscott
-    github: https://github.com/bolajiscott 
+    github: https://github.com/bolajiscott
 
   # insert image details below (spacing important!)
   - image_path: /assets/memes/software_terminology.jpg
@@ -339,7 +339,7 @@ gallery:
     alt: Hmmm cookies
     # your profile name and github page
     posted_by: damuggy
-    github: https://github.com/damuggy        
+    github: https://github.com/damuggy
 
   # insert image details below (spacing important!)
   - image_path: /assets/memes/no_cloud.png
@@ -347,15 +347,15 @@ gallery:
     alt: No Cloud
     # your profile name and github page
     posted_by: damuggy
-    github: https://github.com/damuggy        
-    
+    github: https://github.com/damuggy
+
   # insert image details below (spacing important!)
   - image_path: /assets/memes/memaso.jpg
     # short description of image
     alt: Informatics!
     # your profile name and github page
     posted_by: Hydefs
-    github: https://github.com/Hydefs 
+    github: https://github.com/Hydefs
 
   # insert image details below (spacing important!)
   - image_path: /assets/memes/hackers-in-movies.jpg
@@ -420,23 +420,23 @@ gallery:
     # your profile name and github page
     posted_by: rakhaviantoni
     github: https://github.com/rakhaviantoni
-    
+
   # insert image details below (spacing important!)
   - image_path: /assets/memes/CSFreshie.jpg
     # short description of image
-    alt: First time going to ML 
+    alt: First time going to ML
     # your profile name and github page
-    posted_by: Soumik Baithalu 
+    posted_by: Soumik Baithalu
     github: https://github.com/soumik2012
-    
+
   # insert image details below (spacing important!)
   - image_path: /assets/memes/sleepError.jpg
     # short description of image
     alt: When code every day get dream about error
     # your profile name and github page
-    posted_by: Soumik Baithalu 
-    github: https://github.com/soumik2012   
-  
+    posted_by: Soumik Baithalu
+    github: https://github.com/soumik2012
+
   # insert image details below (spacing important!)
   - image_path: /assets/memes/haccmoment.jpg
     # short description of image
@@ -452,15 +452,15 @@ gallery:
     # your profile name and github page
     posted_by: mongjong86
     github: https://github.com/mongjong86
-    
+
   # insert image details below (spacing important!)
   - image_path: /assets/memes/vamisola-meme.jpg
     # short description of image
-    alt: I changed my password to "incorrect"
+    alt: I changed my password to incorrect
     # your profile name and github page
     posted_by: vamisola
     github: https://github.com/vamisola
-    
+
   # insert image details below (spacing important!)
   - image_path: /assets/memes/vue.js.jpg
     # short description of image
@@ -468,7 +468,21 @@ gallery:
     # your github profile name and github account
     posted_by: wfebriad
     github: https://github.com/wfebriad
-    
+
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/perfect-date.jpg
+    # short description of image
+    alt: Perfect Date
+    # your github profile name and github account
+    posted_by: Nick Neos
+    github: https://github.com/nickneos
+
+
+
+
+
+
+
 
 
 
