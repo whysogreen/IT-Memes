@@ -477,6 +477,14 @@ gallery:
     posted_by: Nick Neos
     github: https://github.com/nickneos
 
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/cat-download-life.png
+    # short description of image
+    alt: Cat thinks you don't have a life
+    # your github profile name and github account
+    posted_by: Amy Tan
+    github: https://github.com/whysogreen
+
 
 
 
